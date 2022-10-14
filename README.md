@@ -40,7 +40,14 @@
 
 ## Contact
 
-You can find me on:
-
-[Twitter](https://twitter.com/estevofr)
-[Linkedin](https://www.linkedin.com/in/estevao-fr/)
+<p align="left" style="background:">
+<a href="https://techf.cloud" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Techf.Cloud-05122A?style=flat&logo=.net" alt="codepen"/>
+</a>
+<a href="https://twitter.com/estevofr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Estevão França-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/estevao-fr/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Estevão França-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
